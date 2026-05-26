@@ -12,9 +12,6 @@ const Image = [
   "/5.jpeg",
   "/6.jpeg",  
   "/7.jpeg",
-
-
-
 ]
 
 export default function Home() {
