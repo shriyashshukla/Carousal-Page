@@ -112,9 +112,7 @@ export default function Home() {
             {slides[current]?.description}
           </p>
 
-          <button className="mt-10 bg-yellow-500 hover:bg-yellow-400 text-black px-8 py-4 rounded-md font-semibold">
-            Explore {slides[current]?.title} Art
-          </button>
+        
         </div>
 
       
